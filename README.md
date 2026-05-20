@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**noth07/noth07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Noah
 
-Here are some ideas to get you started:
+🎓 Upcoming Computer Science Student from Germany  
+💻 Currently learning Python, Cybersecurity & everything that comes my way  
+🚀 Interested in technology, programming, automation and security  
+📚 Always learning and improving step by step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Interests
+
+- Python 🐍
+- Cyber Security 🔐
+- Linux 🐧
+- Git & GitHub
+- Programming Fundamentals
+
+---
+
+## 📖 Currently Learning
+
+- Python Development
+- Ethical Hacking Basics
+- Linux & Terminal Usage
+- Networking & Security
+- Git/GitHub Workflow
+
+---
+
+## 🎯 Goals
+
+- Become a skilled software developer
+- Build useful open-source projects
+- Learn more about cybersecurity
+- Improve every single day
+
+---
+
+⭐ Thanks for visiting my profile!
